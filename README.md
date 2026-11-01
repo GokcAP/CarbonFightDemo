@@ -6,7 +6,6 @@
 > canavarların içine düştü ve Doğa Ana öfkeyle Kül'e dönüştü. Sen Eko-Lider'sin: haritaları onar,
 > canavarları yen, parçaları geri al.
 
-🎬 Oyun içi demo videosu: [`demo/CarbonFight_demo.mp4`](demo/CarbonFight_demo.mp4)
 
 ## Oynanış
 
