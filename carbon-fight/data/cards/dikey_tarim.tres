@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/dikey_tarim.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"dikey_tarim"
+display_name = "Dikey Tarım"
+emoji = "🌱"
+icon = ExtResource("2_icon")
+color = Color(0.424, 0.812, 0.424, 1)
+description = "Az alanda çok gıda üretir."
+element = "toprak"
+ap = 2
+hp = 7
+armor = 1
+carbon_delta = 1
+welfare_delta = 6

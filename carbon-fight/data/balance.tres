@@ -1,0 +1,54 @@
+[gd_resource type="Resource" script_class="BalanceConfig" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/balance_config.gd" id="1_cfg"]
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="2_card"]
+[ext_resource type="Script" path="res://scripts/data/map_data.gd" id="3_map"]
+[ext_resource type="Resource" path="res://data/cards/gunes_tarlasi.tres" id="c0_gunes_tarlasi"]
+[ext_resource type="Resource" path="res://data/cards/dikey_tarim.tres" id="c1_dikey_tarim"]
+[ext_resource type="Resource" path="res://data/cards/mavi_karbon.tres" id="c2_mavi_karbon"]
+[ext_resource type="Resource" path="res://data/cards/yesil_cati.tres" id="c3_yesil_cati"]
+[ext_resource type="Resource" path="res://data/cards/toplu_tasima.tres" id="c4_toplu_tasima"]
+[ext_resource type="Resource" path="res://data/cards/komur_santrali.tres" id="c5_komur_santrali"]
+[ext_resource type="Resource" path="res://data/maps/dumanli_vadi.tres" id="m0_dumanli_vadi"]
+[ext_resource type="Resource" path="res://data/maps/solgun_korfez.tres" id="m1_solgun_korfez"]
+[ext_resource type="Resource" path="res://data/maps/gri_sehir.tres" id="m2_gri_sehir"]
+[ext_resource type="Resource" path="res://data/maps/kul_ormani.tres" id="m3_kul_ormani"]
+[ext_resource type="Resource" path="res://data/cards/shard_su.tres" id="s_shard_su"]
+[ext_resource type="Resource" path="res://data/cards/shard_toprak.tres" id="s_shard_toprak"]
+[ext_resource type="Resource" path="res://data/cards/shard_gunes.tres" id="s_shard_gunes"]
+[ext_resource type="Resource" path="res://data/cards/denge_tohumu.tres" id="s_denge_tohumu"]
+
+[resource]
+script = ExtResource("1_cfg")
+ash_guard_per_card = 1
+start_carbon = 50
+start_temperature = 1.1
+start_welfare = 60
+carbon_per_turn = 5
+welfare_per_turn = -4
+carbon_baseline = 30
+temp_per_carbon = 0.003
+temp_min = 1.0
+carbon_max = 100
+welfare_max = 100
+temp_warning = 1.5
+temp_lose = 2.0
+hand_size = 3
+deck_copies = 3
+cards = Array[ExtResource("2_card")]([ExtResource("c0_gunes_tarlasi"), ExtResource("c1_dikey_tarim"), ExtResource("c2_mavi_karbon"), ExtResource("c3_yesil_cati"), ExtResource("c4_toplu_tasima"), ExtResource("c5_komur_santrali")])
+max_level = 3
+synergy_bonus = 0.25
+weakness_multiplier = 2.0
+resistance_multiplier = 0.5
+sacrifice_multiplier = 3
+burn_damage = 2
+rage_per_turn = 1
+maps = Array[ExtResource("3_map")]([ExtResource("m0_dumanli_vadi"), ExtResource("m1_solgun_korfez"), ExtResource("m2_gri_sehir"), ExtResource("m3_kul_ormani")])
+boss_heal_carbon_threshold = 60
+boss_heal_carbon_per_hp = 4
+boss_reward_carbon = -10
+boss_reward_welfare = 10
+map_reward_temp = -0.1
+chimney_card = ExtResource("c5_komur_santrali")
+shard_cards = Array[ExtResource("2_card")]([ExtResource("s_shard_su"), ExtResource("s_shard_toprak"), ExtResource("s_shard_gunes")])
+seed_card = ExtResource("s_denge_tohumu")

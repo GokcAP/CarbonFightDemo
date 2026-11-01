@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/shard_gunes.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"shard_gunes"
+display_name = "Güneş Parçası"
+icon = ExtResource("2_icon")
+color = Color(1, 0.8, 0.46, 1)
+description = "Denge Tohumu'nun Güneş parçası. Güneş sunağına konur."
+element = "gunes"
+kind = 1
+ap = 0
+hp = 8
+armor = 0
+carbon_delta = 0
+welfare_delta = 0

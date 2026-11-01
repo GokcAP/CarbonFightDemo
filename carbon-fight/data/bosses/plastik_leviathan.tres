@@ -1,0 +1,39 @@
+[gd_resource type="Resource" script_class="BossData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/boss_data.gd" id="1_boss"]
+[ext_resource type="Script" path="res://scripts/data/boss_attack.gd" id="2_atk"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bosses/plastik_leviathan_0.png" id="3_icon"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bosses/plastik_leviathan_1.png" id="4_icon"]
+
+[sub_resource type="Resource" id="Resource_atk1"]
+script = ExtResource("2_atk")
+attack_name = "Atık Dalgası"
+pattern = 2
+damage = 2
+burn_turns = 0
+lock_turns = 2
+
+[sub_resource type="Resource" id="Resource_atk2"]
+script = ExtResource("2_atk")
+attack_name = "Mikroplastik Isırık"
+pattern = 0
+damage = 6
+burn_turns = 0
+lock_turns = 0
+
+[resource]
+script = ExtResource("1_boss")
+id = &"plastik_leviathan"
+display_name = "Plastik Leviathan"
+emoji = "🦑"
+icon = ExtResource("3_icon")
+icon_alt = ExtResource("4_icon")
+color = Color(0.42, 0.55, 0.62, 1)
+description = "Plastikten doğan deniz canavarı. Toprak Parçası'nı yuttu, kıyı çoraklaştı."
+mechanic = 2
+mechanic_name = "Dalış"
+mechanic_text = "Dönüşümlü olarak dalar. Dalıştayken hasar almaz; baloncuklu sütuna kart koyarsan yüzeye zorlanır ve ×2 hasar alır."
+max_hp = 70
+weakness = "toprak"
+resistance = "su"
+attacks = Array[ExtResource("2_atk")]([SubResource("Resource_atk1"), SubResource("Resource_atk2")])

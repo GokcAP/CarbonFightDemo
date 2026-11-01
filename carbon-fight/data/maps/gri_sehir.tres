@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="MapData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/map_data.gd" id="1_map"]
+[ext_resource type="Resource" path="res://data/bosses/isi_adasi_golemi.tres" id="2_boss"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bg/sehir.png" id="3_bg"]
+
+[resource]
+script = ExtResource("1_map")
+id = &"gri_sehir"
+display_name = "Gri Şehir"
+emoji = "🏙"
+intro_text = "Şehrin asfaltı güneşte kavruluyor. Isı Adası Golemi Güneş Parçası'nı yuttu; güneş artık ısıtmıyor, yakıyor."
+background = ExtResource("3_bg")
+tint = Color(1, 0.92, 0.85, 1)
+boss = ExtResource("2_boss")
+effect_name = "Kavurucu Asfalt"
+effect_text = "5 slot asfalt. Asfalttaki kartlar her tur 1 can kaybeder; asfalt kaldıkça Sıcaklık 2 kat hızlı artar."
+quest = 2
+quest_text = "Toprak kartı (Yeşil Çatı, Dikey Tarım) bir asfaltta 2 tur hayatta kalırsa o slot kalıcı Yeşil Alan olur. 5 asfaltın hepsi yeşillenince golem ortaya çıkar."
+reward_shard = "gunes"
+reward_text = "Güneş kartları +2 AP kazanır."
+asphalt_slots = Array[int]([0, 2, 4, 6, 8])
+green_turns = 2

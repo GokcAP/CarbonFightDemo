@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/toplu_tasima.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"toplu_tasima"
+display_name = "Toplu Taşıma"
+emoji = "🚌"
+icon = ExtResource("2_icon")
+color = Color(0.878, 0.533, 0.29, 1)
+description = "Trafiği ve emisyonu azaltır."
+element = "gunes"
+ap = 3
+hp = 6
+armor = 0
+carbon_delta = -3
+welfare_delta = 2

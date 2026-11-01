@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/mavi_karbon.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"mavi_karbon"
+display_name = "Mavi Karbon"
+emoji = "🏖️"
+icon = ExtResource("2_icon")
+color = Color(0.247, 0.714, 0.788, 1)
+description = "Plaj ve deniz çayırları karbon tutar."
+element = "su"
+ap = 3
+hp = 6
+armor = 1
+carbon_delta = -4
+welfare_delta = 0

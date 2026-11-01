@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/denge_tohumu.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"denge_tohumu"
+display_name = "Denge Tohumu"
+icon = ExtResource("2_icon")
+color = Color(0.65, 0.94, 0.44, 1)
+description = "Birleşmiş Denge Tohumu. Ortadaki slota koy ve Doğa Ana'yı uyandır."
+element = "toprak"
+kind = 2
+ap = 0
+hp = 99
+armor = 0
+carbon_delta = 0
+welfare_delta = 0

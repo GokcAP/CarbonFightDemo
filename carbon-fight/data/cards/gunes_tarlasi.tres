@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/gunes_tarlasi.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"gunes_tarlasi"
+display_name = "Güneş Tarlası"
+emoji = "☀️"
+icon = ExtResource("2_icon")
+color = Color(0.957, 0.773, 0.259, 1)
+description = "Temiz enerji üretir ama tarım arazisinden yer kaplar."
+element = "gunes"
+ap = 4
+hp = 5
+armor = 0
+carbon_delta = -6
+welfare_delta = -1

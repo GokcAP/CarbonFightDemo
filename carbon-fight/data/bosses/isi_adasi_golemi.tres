@@ -1,0 +1,47 @@
+[gd_resource type="Resource" script_class="BossData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/boss_data.gd" id="1_boss"]
+[ext_resource type="Script" path="res://scripts/data/boss_attack.gd" id="2_atk"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bosses/isi_adasi_golemi_0.png" id="3_icon"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bosses/isi_adasi_golemi_1.png" id="4_icon"]
+
+[sub_resource type="Resource" id="Resource_atk1"]
+script = ExtResource("2_atk")
+attack_name = "Asfalt Darbesi"
+pattern = 3
+damage = 3
+burn_turns = 0
+lock_turns = 0
+
+[sub_resource type="Resource" id="Resource_atk2"]
+script = ExtResource("2_atk")
+attack_name = "Sıcak Hava Kubbesi"
+pattern = 1
+damage = 1
+burn_turns = 2
+lock_turns = 0
+
+[sub_resource type="Resource" id="Resource_atk3"]
+script = ExtResource("2_atk")
+attack_name = "Beton Yumruk"
+pattern = 0
+damage = 6
+burn_turns = 0
+lock_turns = 1
+
+[resource]
+script = ExtResource("1_boss")
+id = &"isi_adasi_golemi"
+display_name = "Isı Adası Golemi"
+emoji = "🗿"
+icon = ExtResource("3_icon")
+icon_alt = ExtResource("4_icon")
+color = Color(0.55, 0.55, 0.58, 1)
+description = "Şehrin asfaltından yükselen dev. Güneş Parçası'nı yuttu; güneş artık ısıtmıyor, yakıyor."
+mechanic = 3
+mechanic_name = "Isı Emme"
+mechanic_text = "Her sıcak slot ona zırh verir (hasar ×0.5). Yeşil Alan'a kart koyarak çevresini, Toprak kartıyla kendi slotunu serinlet. Zırh 0'a inince 2 tur savunmasız (×2)."
+max_hp = 90
+weakness = "gunes"
+resistance = "toprak"
+attacks = Array[ExtResource("2_atk")]([SubResource("Resource_atk1"), SubResource("Resource_atk2"), SubResource("Resource_atk3")])

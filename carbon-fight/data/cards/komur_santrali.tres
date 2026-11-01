@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/komur_santrali.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"komur_santrali"
+display_name = "Kömür Santrali"
+emoji = "🏭"
+icon = ExtResource("2_icon")
+color = Color(0.478, 0.416, 0.388, 1)
+description = "Cazip ama kötü: güçlü vurur, çok karbon salar."
+element = "fosil"
+ap = 7
+hp = 8
+armor = 1
+carbon_delta = 8
+welfare_delta = 9

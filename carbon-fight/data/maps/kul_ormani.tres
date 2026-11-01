@@ -1,0 +1,26 @@
+[gd_resource type="Resource" script_class="MapData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/map_data.gd" id="1_map"]
+[ext_resource type="Resource" path="res://data/bosses/kul_ana.tres" id="2_boss"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bg/orman.png" id="3_bg"]
+
+[resource]
+script = ExtResource("1_map")
+id = &"kul_ormani"
+display_name = "Kül Ormanı"
+emoji = "🔥"
+intro_text = "Üç parçayla Doğa Ana'nın ormanına geldin. Orman yanıyor ve karşında öfkeli Kül duruyor. Onu yenmenin yolu öldürmek değil, sakinleştirmek."
+background = ExtResource("3_bg")
+tint = Color(1, 0.9, 0.85, 1)
+boss = ExtResource("2_boss")
+effect_name = "Hepsi Bir Arada"
+effect_text = "Önceki etkiler hafifçe birlikte: her tur 1 is slotu, 3 turda bir çöp ve 2 asfalt slot."
+quest = 3
+quest_text = "Su, Toprak ve Güneş parçalarını kendi sunaklarına koy. Kül sunakları hedef alır; komşu kartlar sunağı korur, düşen parça ele döner. Üçü yerleşince Denge Tohumu'nu ortadaki slota koy."
+reward_shard = ""
+reward_text = ""
+smoke_count = 1
+random_trash_interval = 3
+asphalt_slots = Array[int]([3, 5])
+altar_slots = Array[int]([0, 2, 7])
+seed_slot = 4

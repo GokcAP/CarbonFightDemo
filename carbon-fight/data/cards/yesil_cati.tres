@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="CardData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/card_data.gd" id="1_card"]
+[ext_resource type="Texture2D" path="res://assets/sprites/cards/yesil_cati.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_card")
+id = &"yesil_cati"
+display_name = "Yeşil Çatı"
+emoji = "🏡"
+icon = ExtResource("2_icon")
+color = Color(0.349, 0.702, 0.42, 1)
+description = "Şehri serinletir; sağlam bir savunma kartı."
+element = "toprak"
+ap = 1
+hp = 9
+armor = 2
+carbon_delta = -2
+welfare_delta = 2

@@ -1,0 +1,862 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "⭐ %s birleşti → Seviye %d"
+msgstr ""
+
+msgid "🏭 Kirli baca söndürüldü!"
+msgstr ""
+
+msgid "%s kaldırıldı."
+msgstr ""
+
+msgid "%s → Slot %d"
+msgstr ""
+
+msgid "♻ Çöp geri dönüştürüldü (%d/%d)"
+msgstr ""
+
+msgid "❄ %d slot serinledi. Golemin ısı zırhı: %d"
+msgstr ""
+
+msgid "🫧 Leviathan yüzeye zorlandı! Bu tur ×%s hasar alır."
+msgstr ""
+
+msgid "🗑 %s ıskartaya atıldı."
+msgstr ""
+
+msgid "🔥 Kül'e vurmak onu öfkelendirdi! Öfke %+d"
+msgstr ""
+
+msgid "💥 Kurban vuruşu: %s → %d"
+msgstr ""
+
+msgid "💧 Alev zırhı kırıldı! Kalan katman: %d"
+msgstr ""
+
+msgid "🏆 %s yenildi! Karbon %+d, Refah %+d"
+msgstr ""
+
+msgid "✨ %s alındı: %s"
+msgstr ""
+
+msgid "%s %s ortaya çıktı!"
+msgstr ""
+
+msgid "🌊 Leviathan yüzeye çıktı."
+msgstr ""
+
+msgid "🫧 Leviathan daldı! Baloncuklar %d. sütunda."
+msgstr ""
+
+msgid "🔥 Golem ısıyı geri emdi! Isı zırhı: %d"
+msgstr ""
+
+msgid "💥 Golemin zırhı çatladı! %d tur savunmasız (×%s hasar)."
+msgstr ""
+
+msgid "💀 %s yok oldu."
+msgstr ""
+
+msgid "✨ %s sunağa geri kondu (öfke azalmadı)."
+msgstr ""
+
+msgid "✨ %s sunağa yerleşti. Kül sakinleşiyor (öfke %+d)."
+msgstr ""
+
+msgid "🌱 Üç parça birleşti! Denge Tohumu elinde. Onu ortadaki slota koy."
+msgstr ""
+
+msgid "🛡 Kartlar sunağı korudu (−%d hasar)."
+msgstr ""
+
+msgid "💔 %s sunaktan düştü ve ele döndü! Öfke %+d"
+msgstr ""
+
+msgid "Kül'ün öfkesi ormanı tamamen yaktı."
+msgstr ""
+
+msgid "🌳 Denge Tohumu yerine kondu. Kül yeniden Doğa Ana oldu!"
+msgstr ""
+
+msgid "Denge Tohumu yeniden birleşti. Doğa Ana uyandı."
+msgstr ""
+
+msgid "🌊 Gelgit! %d. satır sular altında."
+msgstr ""
+
+msgid "🗑 Akıntı bir çöp getirdi."
+msgstr ""
+
+msgid "🌿 Slot %d kalıcı olarak Yeşil Alan oldu!"
+msgstr ""
+
+msgid "Kirli baca söndür: %d/%d"
+msgstr ""
+
+msgid "Çöp temizle: %d/%d"
+msgstr ""
+
+msgid "Asfaltı yeşillendir: %d/%d"
+msgstr ""
+
+msgid "Parçaları sunaklara koy: %d/%d"
+msgstr ""
+
+msgid "✅ Onarım tamamlandı!"
+msgstr ""
+
+msgid "Baca söndü!"
+msgstr ""
+
+msgid "Geri dönüştü"
+msgstr ""
+
+msgid "Parça düştü!"
+msgstr ""
+
+msgid "Hoş geldin, Eko-Lider! Denge Tohumu'nu yeniden birleştir."
+msgstr ""
+
+msgid "CarbonFight"
+msgstr ""
+
+msgid "Tohum:"
+msgstr ""
+
+msgid "Olaylar"
+msgstr ""
+
+msgid "Ayarlar"
+msgstr ""
+
+msgid "Ayarlar (Esc)"
+msgstr ""
+
+msgid "Dil değiştirildi."
+msgstr ""
+
+msgid "Denge Tohumu"
+msgstr ""
+
+msgid "Devam"
+msgstr ""
+
+msgid "%s\n\nHarita etkisi - %s: %s\n\nGörev: %s"
+msgstr ""
+
+msgid "Harita %d/%d"
+msgstr ""
+
+msgid "Final"
+msgstr ""
+
+msgid "Başla"
+msgstr ""
+
+msgid "%s yenildi!"
+msgstr ""
+
+msgid "Harita onarıldı."
+msgstr ""
+
+msgid "%s alındı!"
+msgstr ""
+
+msgid "%s yenildi ve yuttuğu parçayı bıraktı.\n\nKalıcı bonus: %s\n\nÖdül: Karbon %+d, Refah %+d, Sıcaklık %+.1f°C"
+msgstr ""
+
+msgid "Sonraki harita"
+msgstr ""
+
+msgid "Karbon: %d / %d"
+msgstr ""
+
+msgid " x2"
+msgstr ""
+
+msgid "Sıcaklık: %.2f°C / %.1f%s"
+msgstr ""
+
+msgid "Refah: %d / %d"
+msgstr ""
+
+msgid "Onarıldı! %s ile savaş."
+msgstr ""
+
+msgid " (henüz alınmadı)"
+msgstr ""
+
+msgid "Onarım"
+msgstr ""
+
+msgid "Boss"
+msgstr ""
+
+msgid "Tur %d - Harita %d/%d - %s"
+msgstr ""
+
+msgid "Tur çözülüyor..."
+msgstr ""
+
+msgid "Onarım: %s · Kart oyna veya çöpe at"
+msgstr ""
+
+msgid "Parçaları sunaklara koy, sunakları kartlarla koru"
+msgstr ""
+
+msgid "Kartı slota, boss'a veya çöp kutusuna sürükle"
+msgstr ""
+
+msgid "-%d Refah"
+msgstr ""
+
+msgid "Seviye %d!"
+msgstr ""
+
+msgid "YIKILDI"
+msgstr ""
+
+msgid "Yeşil Alan!"
+msgstr ""
+
+msgid "Serinledi"
+msgstr ""
+
+msgid "Gelgit!"
+msgstr ""
+
+msgid "Sunağa yerleşti"
+msgstr ""
+
+msgid "Yenilen canavar: %d   Kalan Refah: %d   Son Sıcaklık: %.2f°C"
+msgstr ""
+
+msgid "Tebrikler!"
+msgstr ""
+
+msgid "KAYBETTİN"
+msgstr ""
+
+msgid "Yeniden Başla"
+msgstr ""
+
+msgid "Yeni rekor!"
+msgstr ""
+
+msgid "En iyi skor: %d"
+msgstr ""
+
+msgid "Skor: %d"
+msgstr ""
+
+msgid "Yeni oyun başladı."
+msgstr ""
+
+msgid "Denge Tohumu'nu geri kazan."
+msgstr ""
+
+msgid "Oyundan çık"
+msgstr ""
+
+msgid "Başlamak için tıkla"
+msgstr ""
+
+msgid "— Tur %d sonu: Karbon %+d, Refah %+d, Sıcaklık %+.2f°C"
+msgstr ""
+
+msgid "🏭 Yüksek karbon boss'u besledi: +%d HP"
+msgstr ""
+
+msgid "🔓 Slot %d serbest."
+msgstr ""
+
+msgid "Sıcaklık %.1f°C'ye ulaştı."
+msgstr ""
+
+msgid "Refah tükendi."
+msgstr ""
+
+msgid "%d hasar"
+msgstr ""
+
+msgid "yanma %d tur"
+msgstr ""
+
+msgid "kilit %d tur"
+msgstr ""
+
+msgid "Karbon %+d"
+msgstr ""
+
+msgid "Refah %+d"
+msgstr ""
+
+msgid "Zayıf:"
+msgstr ""
+
+msgid "Dirençli:"
+msgstr ""
+
+msgid "Zırh kırıldı!"
+msgstr ""
+
+msgid "%s (uyuyor)"
+msgstr ""
+
+msgid "Öfke %d / %d"
+msgstr ""
+
+msgid "HP %d / %d"
+msgstr ""
+
+msgid "Öfke +%d"
+msgstr ""
+
+msgid "Sıradaki: %s - %s"
+msgstr ""
+
+msgid "Vurma! Kül öfkelenir (öfke +%d)"
+msgstr ""
+
+msgid "Kurban vuruşu: ~%d hasar (kart yok olur)"
+msgstr ""
+
+msgid "Mekanik: %s"
+msgstr ""
+
+msgid "Alev Zırhı %d/%d - yalnızca Su kırar"
+msgstr ""
+
+msgid "Alev zırhı yok - tam hasar!"
+msgstr ""
+
+msgid "Yüzeye zorlandı: ×%s hasar!"
+msgstr ""
+
+msgid "Dalışta! %d. sütuna kart koy"
+msgstr ""
+
+msgid "Yüzeyde - sonraki tur dalar"
+msgstr ""
+
+msgid "Savunmasız %d tur: ×%s hasar!"
+msgstr ""
+
+msgid "Isı Zırhı %d (sıcak slot) - ×%s hasar"
+msgstr ""
+
+msgid "Sunaktaki parça: %d/3 - vurma, sakinleştir"
+msgstr ""
+
+msgid "DALIŞTA"
+msgstr ""
+
+msgid "BLOK"
+msgstr ""
+
+msgid "+%d HP"
+msgstr ""
+
+msgid "Yüzeye çıktı!"
+msgstr ""
+
+msgid "%s uyandı!"
+msgstr ""
+
+msgid "KARTI ÇÖPE AT"
+msgstr ""
+
+msgid "İstemediğin normal kartı buraya sürükle. Kart ıskartaya gider ve tur otomatik ilerler."
+msgstr ""
+
+msgid "%s\n%s\nElement: %s"
+msgstr ""
+
+msgid "Kendi sunağına koy"
+msgstr ""
+
+msgid "Ortadaki slota koy"
+msgstr ""
+
+msgid "ANA MENÜYE DÖN"
+msgstr ""
+
+msgid "GERİ"
+msgstr ""
+
+msgid "EMEĞİ GEÇENLER"
+msgstr ""
+
+msgid "LİSANSLAR"
+msgstr ""
+
+msgid "Godot Üçüncü Taraf Bileşenleri"
+msgstr ""
+
+msgid "Kül"
+msgstr ""
+
+msgid "Devam etmek için tıkla"
+msgstr ""
+
+msgid "Beni yenmedin. Beni hatırladın."
+msgstr ""
+
+msgid "Doğa Ana"
+msgstr ""
+
+msgid "Kapat"
+msgstr ""
+
+msgid "Denge Grimuarı"
+msgstr ""
+
+msgid "Karakterler ve Haritalar"
+msgstr ""
+
+msgid "Açmak için tıkla"
+msgstr ""
+
+msgid "Önsöz"
+msgstr ""
+
+msgid "Açılan bölümler: %d/%d"
+msgstr ""
+
+msgid "İçindekiler"
+msgstr ""
+
+msgid "Zayıf: %s  /  Dirençli: %s"
+msgstr ""
+
+msgid "Saldırılar"
+msgstr ""
+
+msgid "Harita etkisi: %s"
+msgstr ""
+
+msgid "Onarım görevi"
+msgstr ""
+
+msgid "Ödül: %s"
+msgstr ""
+
+msgid "Mühürlü Sayfa"
+msgstr ""
+
+msgid "Bu sayfa, Kül sakinleştirildiğinde açılır."
+msgstr ""
+
+msgid "Bu sayfanın mührü, bu diyarın canavarı yenildiğinde çözülür."
+msgstr ""
+
+msgid "SKOR"
+msgstr ""
+
+msgid "En iyi: %d"
+msgstr ""
+
+msgid "Dil / Language"
+msgstr ""
+
+msgid "Müzik"
+msgstr ""
+
+msgid "Efektler"
+msgstr ""
+
+msgid "Tam ekran"
+msgstr ""
+
+msgid "Hızlı animasyon"
+msgstr ""
+
+msgid "Ayarlar otomatik kaydedilir. Esc ile aç/kapat."
+msgstr ""
+
+msgid "Ana menüye dönülsün mü?"
+msgstr ""
+
+msgid "Emin misin? Oyun yarıda kalacak ve ilerlemen kaybolacak."
+msgstr ""
+
+msgid "Vazgeç"
+msgstr ""
+
+msgid "Evet, dön"
+msgstr ""
+
+msgid "Açık"
+msgstr ""
+
+msgid "Kapalı"
+msgstr ""
+
+msgid "Çöp: buraya kart konamaz.\nYanına Toprak kartı koyarak geri dönüştür."
+msgstr ""
+
+msgid "%s sunağı: yalnızca %s buraya konur."
+msgstr ""
+
+msgid "Denge Tohumu buraya konacak."
+msgstr ""
+
+msgid "Kirli"
+msgstr ""
+
+msgid "Kirli Baca: her tur +%d karbon salar.\nÜstüne temiz bir kart koyarak söndür."
+msgstr ""
+
+msgid "%s\nCan %d/%d · Komşu kartlar sunağı korur."
+msgstr ""
+
+msgid "%s (Seviye %d)"
+msgstr ""
+
+msgid "%s · Can %d/%d"
+msgstr ""
+
+msgid "Duman: AP yarıya iner, Güneş kartları üretmez."
+msgstr ""
+
+msgid "Asfalt: kart her tur 1 can kaybeder. Toprak kartı %d tur dayanırsa Yeşil Alan olur."
+msgstr ""
+
+msgid "Yeşil Alan: buraya konan kart çevresini serinletir."
+msgstr ""
+
+msgid "Sıcak slot: Golem'e zırh verir."
+msgstr ""
+
+msgid "Atla"
+msgstr ""
+
+msgid "Eğitim %d/%d"
+msgstr ""
+
+msgid "Bitir"
+msgstr ""
+
+msgid "Doğa Ana dünyayı Denge Tohumu ile dengede tutuyordu. İnsanlar doymak bilmeden tükettikçe tohum çatladı ve üç parçaya bölündü.\n\nParçalar, kirlilikten doğan üç canavarın içine düştü. Tohumu kaybeden Doğa Ana öfkelendi ve Kül'e dönüştü. Dünya ısınmaya başladı.\n\nSen Eko-Lider'sin. Her haritayı onar, canavarı yen, parçayı geri al ve tohumu Doğa Ana'ya geri ver."
+msgstr ""
+
+msgid "Denge Tohumu yeniden birleşti. Kül'ün külleri döküldü, yanmış orman filizleniyor.\n\nBu bir oyundu. Ama 2°C eşiği gerçek."
+msgstr ""
+
+msgid "Turda 1 kart oyna: boş slota yerleşir, aynı kartın üstüne birleşir, boss'a bırakırsan kurban vuruşu. Kart oynanınca tur otomatik ilerler.\nİstemediğin normal kartı çöp kutusuna sürükleyerek ıskartaya atabilirsin.\nAynı element komşular +%25 AP. Kırmızı slotlar boss'un hedefi.\nÖnce haritanın onarım görevini bitir; canavar ancak o zaman uyanır."
+msgstr ""
+
+msgid "Su Parçası"
+msgstr ""
+
+msgid "Toprak Parçası"
+msgstr ""
+
+msgid "Güneş Parçası"
+msgstr ""
+
+msgid "Güneş"
+msgstr ""
+
+msgid "Toprak"
+msgstr ""
+
+msgid "Su"
+msgstr ""
+
+msgid "Fosil"
+msgstr ""
+
+msgid "Tek slot"
+msgstr ""
+
+msgid "Sıra"
+msgstr ""
+
+msgid "Sütun"
+msgstr ""
+
+msgid "Artı"
+msgstr ""
+
+msgid "Hoş geldin, Eko-Lider! Kısa bir turla oyunu öğrenelim. İstediğin an \"Atla\" diyebilirsin."
+msgstr ""
+
+msgid "Bunlar dünyanın durumu. Karbon yükseldikçe Sıcaklık artar. Sıcaklık 2.0°C'ye ulaşırsa ya da Refah 0'a düşerse kaybedersin."
+msgstr ""
+
+msgid "Her haritanın bir etkisi ve bir onarım görevi var. Dumanlı Vadi'de görevin Kirli Bacaları söndürmek."
+msgstr ""
+
+msgid "Bu haritanın canavarı. Şimdilik uyuyor; onarım görevini bitirince uyanır ve savaş başlar."
+msgstr ""
+
+msgid "Bunlar kartların. Her kartın bir elementi, saldırı gücü, canı ve zırhı var. Altta her tur karbona ve refaha etkisi yazıyor."
+msgstr ""
+
+msgid "Bir kartı tutup tahtadaki boş bir karoya sürükle. Her tur yalnızca bir kart oynayabilirsin."
+msgstr ""
+
+msgid "Kartın yerleşti ve tur otomatik ilerliyor. Bu çöp kutusuna istemediğin normal kartı bırakırsan da tur ilerler ve yerine yeni kart gelir."
+msgstr ""
+
+msgid "Duman tüten binalar Kirli Bacalar: her tur karbon salarlar. Söndürmek için bir kartı doğrudan bacanın üstüne sürükle."
+msgstr ""
+
+msgid "Boss uyanınca kartların her tur ona vurur. Kırmızı karolar sıradaki saldırının hedefi. Aynı elementten komşu kartlar daha güçlü vurur, aynı kartı üstüne bırakırsan seviye atlar. Kartı boss'a bırakırsan kurban vuruşu yaparsın."
+msgstr ""
+
+msgid "Dil, ses ve diğer ayarlar burada (Esc). İyi şanslar!"
+msgstr ""
+
+msgid "Bu grimuar, kırılan dengenin hikayesini saklar. Kirlilikten doğan canavarları ve onların zehirlediği diyarları anlatır. Her canavarı yendiğinde onun ve diyarının sayfasındaki mühür çözülür."
+msgstr ""
+
+msgid "Kömür ocaklarının derinliklerinde yüzyıllarca uyuyan bu ejderha, yakılan her kömürle biraz daha büyüdü. Pulları kurum, nefesi kızgın kül. Su Parçası'nı yuttuğunda vadinin bütün dereleri bir gecede buharlaştı."
+msgstr ""
+
+msgid "Denize atılan her şişe, her poşet onun bedenine eklendi. Leviathan dalgaların altında sessizce dolaşır, kıyıya yalnızca yemek için çıkar. Toprak Parçası onun midesinde; sahil bu yüzden çoraklaştı."
+msgstr ""
+
+msgid "Şehrin asfaltı ve betonu güneşin ısısını hapsedince bu dev uyandı. Her sıcak sokak ona güç verir, gölge ve yeşillik onu zayıflatır. Güneş Parçası göğsünde bir kor gibi parlıyor."
+msgstr ""
+
+msgid "Bir zamanlar ormanların koruyucusu olan Doğa Ana, Denge Tohumu kırılınca öfkeyle yandı. Kül bir düşman değil, yaralı bir annedir. Ona vurmak yarasını derinleştirir; parçaları geri getirmek onu iyileştirir."
+msgstr ""
+
+msgid "Gezgin notu: Vadide gökyüzü hep gri. Bacaları söndürdükçe güneş yeniden görünür. Su kartları ejderhanın alev zırhını kırar."
+msgstr ""
+
+msgid "Gezgin notu: Gelgit sırayla satırları yutar. Toprak kartlarını çöplerin yanına koy; Leviathan dalınca baloncuklu sütuna kart bırak."
+msgstr ""
+
+msgid "Gezgin notu: Asfalt sıcaklığı ikiye katlar. Toprak kartlarını asfaltta iki tur yaşatırsan şehir yeşillenir ve golemin zırhı erir."
+msgstr ""
+
+msgid "Gezgin notu: Burada kazanmak için savaşma. Parçaları sunaklarına koy, sunakları kartlarla koru ve tohumu ortaya yerleştir."
+msgstr ""
+
+msgid "Denge Tohumu yeniden birleştiğinde Kül'ün külleri döküldü ve Doğa Ana uyandı. Saçlarında yeniden çiçekler açtı, orman filizlendi. Ama denge hâlâ kırılgan: onu korumak artık senin elinde."
+msgstr ""
+
+msgid "Su, Toprak ve Güneş'in birliği. Bu oyun bitti; ama gerçek dünyada da 2°C eşiği var. Her seçim bir kart gibidir: ya dengeyi korur ya da canavarları besler."
+msgstr ""
+
+msgid "Refah"
+msgstr ""
+
+msgid "Sıcaklık"
+msgstr ""
+
+msgid "Canavar yenildi"
+msgstr ""
+
+msgid "Zafer"
+msgstr ""
+
+msgid "YENİ OYUN"
+msgstr ""
+
+msgid "KARAKTERLER VE HARİTALAR"
+msgstr ""
+
+msgid "AYARLAR"
+msgstr ""
+
+msgid "ÇIKIŞ"
+msgstr ""
+
+msgid "Birleşmiş Denge Tohumu. Ortadaki slota koy ve Doğa Ana'yı uyandır."
+msgstr ""
+
+msgid "Dikey Tarım"
+msgstr ""
+
+msgid "Az alanda çok gıda üretir."
+msgstr ""
+
+msgid "Güneş Tarlası"
+msgstr ""
+
+msgid "Temiz enerji üretir ama tarım arazisinden yer kaplar."
+msgstr ""
+
+msgid "Kömür Santrali"
+msgstr ""
+
+msgid "Cazip ama kötü: güçlü vurur, çok karbon salar."
+msgstr ""
+
+msgid "Mavi Karbon"
+msgstr ""
+
+msgid "Plaj ve deniz çayırları karbon tutar."
+msgstr ""
+
+msgid "Denge Tohumu'nun Güneş parçası. Güneş sunağına konur."
+msgstr ""
+
+msgid "Denge Tohumu'nun Su parçası. Su sunağına konur."
+msgstr ""
+
+msgid "Denge Tohumu'nun Toprak parçası. Toprak sunağına konur."
+msgstr ""
+
+msgid "Toplu Taşıma"
+msgstr ""
+
+msgid "Trafiği ve emisyonu azaltır."
+msgstr ""
+
+msgid "Yeşil Çatı"
+msgstr ""
+
+msgid "Şehri serinletir; sağlam bir savunma kartı."
+msgstr ""
+
+msgid "Isı Adası Golemi"
+msgstr ""
+
+msgid "Şehrin asfaltından yükselen dev. Güneş Parçası'nı yuttu; güneş artık ısıtmıyor, yakıyor."
+msgstr ""
+
+msgid "Isı Emme"
+msgstr ""
+
+msgid "Her sıcak slot ona zırh verir (hasar ×0.5). Yeşil Alan'a kart koyarak çevresini, Toprak kartıyla kendi slotunu serinlet. Zırh 0'a inince 2 tur savunmasız (×2)."
+msgstr ""
+
+msgid "Asfalt Darbesi"
+msgstr ""
+
+msgid "Sıcak Hava Kubbesi"
+msgstr ""
+
+msgid "Beton Yumruk"
+msgstr ""
+
+msgid "Denge Tohumu'nu kaybedince öfkelenen Doğa Ana. Onu yenmenin yolu öldürmek değil, sakinleştirmek."
+msgstr ""
+
+msgid "Sakinleştir"
+msgstr ""
+
+msgid "Ona vurmak öfkesini artırır. Parçaları kendi sunaklarına koy, sunakları komşu kartlarla koru. Üç parça birleşince Denge Tohumu'nu ortadaki slota koy."
+msgstr ""
+
+msgid "Kül Fırtınası"
+msgstr ""
+
+msgid "Öfke Pençesi"
+msgstr ""
+
+msgid "Ateş Yağmuru"
+msgstr ""
+
+msgid "Plastik Leviathan"
+msgstr ""
+
+msgid "Plastikten doğan deniz canavarı. Toprak Parçası'nı yuttu, kıyı çoraklaştı."
+msgstr ""
+
+msgid "Dalış"
+msgstr ""
+
+msgid "Dönüşümlü olarak dalar. Dalıştayken hasar almaz; baloncuklu sütuna kart koyarsan yüzeye zorlanır ve ×2 hasar alır."
+msgstr ""
+
+msgid "Atık Dalgası"
+msgstr ""
+
+msgid "Mikroplastik Isırık"
+msgstr ""
+
+msgid "Termik Ejderha"
+msgstr ""
+
+msgid "Kömür ocaklarında uyuyan ateş ejderhası. Su Parçası'nı yuttu, vadinin dereleri kurudu."
+msgstr ""
+
+msgid "Alev Zırhı"
+msgstr ""
+
+msgid "3 katmanlı alev zırhı var. Yalnızca Su kartları bir katman kırar; zırh varken diğer kartların hasarı ×0.25."
+msgstr ""
+
+msgid "Alev Nefesi"
+msgstr ""
+
+msgid "Kor Pençe"
+msgstr ""
+
+msgid "Dumanlı Vadi"
+msgstr ""
+
+msgid "Kömür ocaklarının üstünde gri bir is asılı. Termik Ejderha burada uyuyor ve Su Parçası'nı yuttu; vadinin dereleri bu yüzden kurudu."
+msgstr ""
+
+msgid "Duman"
+msgstr ""
+
+msgid "Her tur 2 rastgele slotu is bürür. Oradaki kartların AP'si yarıya iner, Güneş kartları üretim yapamaz."
+msgstr ""
+
+msgid "Haritadaki 3 Kirli Baca'nın (önceden yerleşik Kömür Santralleri) yerine temiz kart koy. Son baca sönünce ejderha uyanır."
+msgstr ""
+
+msgid "Tüm kartlar +1 zırh kazanır."
+msgstr ""
+
+msgid "Gri Şehir"
+msgstr ""
+
+msgid "Şehrin asfaltı güneşte kavruluyor. Isı Adası Golemi Güneş Parçası'nı yuttu; güneş artık ısıtmıyor, yakıyor."
+msgstr ""
+
+msgid "Kavurucu Asfalt"
+msgstr ""
+
+msgid "5 slot asfalt. Asfalttaki kartlar her tur 1 can kaybeder; asfalt kaldıkça Sıcaklık 2 kat hızlı artar."
+msgstr ""
+
+msgid "Toprak kartı (Yeşil Çatı, Dikey Tarım) bir asfaltta 2 tur hayatta kalırsa o slot kalıcı Yeşil Alan olur. 5 asfaltın hepsi yeşillenince golem ortaya çıkar."
+msgstr ""
+
+msgid "Güneş kartları +2 AP kazanır."
+msgstr ""
+
+msgid "Kül Ormanı"
+msgstr ""
+
+msgid "Üç parçayla Doğa Ana'nın ormanına geldin. Orman yanıyor ve karşında öfkeli Kül duruyor. Onu yenmenin yolu öldürmek değil, sakinleştirmek."
+msgstr ""
+
+msgid "Hepsi Bir Arada"
+msgstr ""
+
+msgid "Önceki etkiler hafifçe birlikte: her tur 1 is slotu, 3 turda bir çöp ve 2 asfalt slot."
+msgstr ""
+
+msgid "Su, Toprak ve Güneş parçalarını kendi sunaklarına koy. Kül sunakları hedef alır; komşu kartlar sunağı korur, düşen parça ele döner. Üçü yerleşince Denge Tohumu'nu ortadaki slota koy."
+msgstr ""
+
+msgid "Solgun Körfez"
+msgstr ""
+
+msgid "Körfezin suyu plastikle bulanık. Plastik Leviathan Toprak Parçası'nı yuttu; kıyıdaki toprak çoraklaştı."
+msgstr ""
+
+msgid "Gelgit"
+msgstr ""
+
+msgid "2 turda bir sırayla bir satır sular altında kalır: boş slotlara Çöp düşer, dolu slottaki kart 2 hasar alır. Çöplü slota kart konamaz."
+msgstr ""
+
+msgid "6 çöp temizle. Toprak kartını çöplü slotun yanına koymak komşu çöpleri geri dönüştürür. Körfez temizlenince Leviathan yüzeye çıkar."
+msgstr ""
+
+msgid "Refah her tur −4 yerine −2 düşer."
+msgstr ""
+

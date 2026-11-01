@@ -1,0 +1,47 @@
+[gd_resource type="Resource" script_class="BossData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/boss_data.gd" id="1_boss"]
+[ext_resource type="Script" path="res://scripts/data/boss_attack.gd" id="2_atk"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bosses/kul_ana_0.png" id="3_icon"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bosses/kul_ana_1.png" id="4_icon"]
+
+[sub_resource type="Resource" id="Resource_atk1"]
+script = ExtResource("2_atk")
+attack_name = "Kül Fırtınası"
+pattern = 3
+damage = 2
+burn_turns = 1
+lock_turns = 0
+
+[sub_resource type="Resource" id="Resource_atk2"]
+script = ExtResource("2_atk")
+attack_name = "Öfke Pençesi"
+pattern = 0
+damage = 4
+burn_turns = 0
+lock_turns = 0
+
+[sub_resource type="Resource" id="Resource_atk3"]
+script = ExtResource("2_atk")
+attack_name = "Ateş Yağmuru"
+pattern = 1
+damage = 2
+burn_turns = 2
+lock_turns = 0
+
+[resource]
+script = ExtResource("1_boss")
+id = &"kul_ana"
+display_name = "Kül"
+emoji = "🔥"
+icon = ExtResource("3_icon")
+icon_alt = ExtResource("4_icon")
+color = Color(0.45, 0.38, 0.95, 1)
+description = "Denge Tohumu'nu kaybedince öfkelenen Doğa Ana. Onu yenmenin yolu öldürmek değil, sakinleştirmek."
+mechanic = 4
+mechanic_name = "Sakinleştir"
+mechanic_text = "Ona vurmak öfkesini artırır. Parçaları kendi sunaklarına koy, sunakları komşu kartlarla koru. Üç parça birleşince Denge Tohumu'nu ortadaki slota koy."
+max_hp = 1
+weakness = "su"
+resistance = "fosil"
+attacks = Array[ExtResource("2_atk")]([SubResource("Resource_atk1"), SubResource("Resource_atk2"), SubResource("Resource_atk3")])

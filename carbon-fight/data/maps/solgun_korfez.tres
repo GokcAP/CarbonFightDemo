@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="MapData" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/map_data.gd" id="1_map"]
+[ext_resource type="Resource" path="res://data/bosses/plastik_leviathan.tres" id="2_boss"]
+[ext_resource type="Texture2D" path="res://assets/sprites/bg/korfez.png" id="3_bg"]
+
+[resource]
+script = ExtResource("1_map")
+id = &"solgun_korfez"
+display_name = "Solgun Körfez"
+emoji = "🌊"
+intro_text = "Körfezin suyu plastikle bulanık. Plastik Leviathan Toprak Parçası'nı yuttu; kıyıdaki toprak çoraklaştı."
+background = ExtResource("3_bg")
+tint = Color(0.9, 1, 1, 1)
+boss = ExtResource("2_boss")
+effect_name = "Gelgit"
+effect_text = "2 turda bir sırayla bir satır sular altında kalır: boş slotlara Çöp düşer, dolu slottaki kart 2 hasar alır. Çöplü slota kart konamaz."
+quest = 1
+quest_text = "6 çöp temizle. Toprak kartını çöplü slotun yanına koymak komşu çöpleri geri dönüştürür. Körfez temizlenince Leviathan yüzeye çıkar."
+reward_shard = "toprak"
+reward_text = "Refah her tur −4 yerine −2 düşer."
+tide_interval = 2
+start_trash_slots = Array[int]([0, 2, 4, 8])
+trash_goal = 6

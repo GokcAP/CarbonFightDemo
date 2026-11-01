@@ -1,0 +1,880 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "⭐ %s birleşti → Seviye %d"
+msgstr "⭐ %s merged → Level %d"
+
+msgid "🏭 Kirli baca söndürüldü!"
+msgstr "🏭 Dirty chimney extinguished!"
+
+msgid "%s kaldırıldı."
+msgstr "%s removed."
+
+msgid "%s → Slot %d"
+msgstr "%s → Slot %d"
+
+msgid "♻ Çöp geri dönüştürüldü (%d/%d)"
+msgstr "♻ Trash recycled (%d/%d)"
+
+msgid "❄ %d slot serinledi. Golemin ısı zırhı: %d"
+msgstr "❄ %d slots cooled. Golem's heat armor: %d"
+
+msgid "🫧 Leviathan yüzeye zorlandı! Bu tur ×%s hasar alır."
+msgstr "🫧 Leviathan forced to the surface! It takes ×%s damage this turn."
+
+msgid "🔥 Kül'e vurmak onu öfkelendirdi! Öfke %+d"
+msgstr "🔥 Striking Ash enraged her! Rage %+d"
+
+msgid "💥 Kurban vuruşu: %s → %d"
+msgstr "💥 Sacrifice strike: %s → %d"
+
+msgid "💧 Alev zırhı kırıldı! Kalan katman: %d"
+msgstr "💧 Flame armor broken! Layers left: %d"
+
+msgid "🏆 %s yenildi! Karbon %+d, Refah %+d"
+msgstr "🏆 %s defeated! Carbon %+d, Welfare %+d"
+
+msgid "✨ %s alındı: %s"
+msgstr "✨ %s obtained: %s"
+
+msgid "%s %s ortaya çıktı!"
+msgstr "%s %s appeared!"
+
+msgid "🌊 Leviathan yüzeye çıktı."
+msgstr "🌊 Leviathan surfaced."
+
+msgid "🫧 Leviathan daldı! Baloncuklar %d. sütunda."
+msgstr "🫧 Leviathan dived! Bubbles in column %d."
+
+msgid "🔥 Golem ısıyı geri emdi! Isı zırhı: %d"
+msgstr "🔥 The Golem absorbed the heat back! Heat armor: %d"
+
+msgid "💥 Golemin zırhı çatladı! %d tur savunmasız (×%s hasar)."
+msgstr "💥 The Golem's armor cracked! Vulnerable for %d turns (×%s damage)."
+
+msgid "💀 %s yok oldu."
+msgstr "💀 %s was destroyed."
+
+msgid "✨ %s sunağa yerleşti. Kül sakinleşiyor (öfke %+d)."
+msgstr "✨ %s placed on its altar. Ash calms down (rage %+d)."
+
+msgid "🌱 Üç parça birleşti! Denge Tohumu elinde. Onu ortadaki slota koy."
+msgstr "🌱 The three shards joined! The Seed of Balance is in your hand. Place it on the center slot."
+
+msgid "🛡 Kartlar sunağı korudu (−%d hasar)."
+msgstr "🛡 Cards protected the altar (−%d damage)."
+
+msgid "💔 %s sunaktan düştü ve ele döndü! Öfke %+d"
+msgstr "💔 %s fell from its altar and returned to your hand! Rage %+d"
+
+msgid "Kül'ün öfkesi ormanı tamamen yaktı."
+msgstr "Ash's rage burned the whole forest."
+
+msgid "🌳 Denge Tohumu yerine kondu. Kül yeniden Doğa Ana oldu!"
+msgstr "🌳 The Seed of Balance is in place. Ash is Mother Nature again!"
+
+msgid "Denge Tohumu yeniden birleşti. Doğa Ana uyandı."
+msgstr "The Seed of Balance is whole again. Mother Nature awakens."
+
+msgid "🌊 Gelgit! %d. satır sular altında."
+msgstr "🌊 Tide! Row %d is underwater."
+
+msgid "🗑 Akıntı bir çöp getirdi."
+msgstr "🗑 The current brought in some trash."
+
+msgid "🌿 Slot %d kalıcı olarak Yeşil Alan oldu!"
+msgstr "🌿 Slot %d became a permanent Green Area!"
+
+msgid "Kirli baca söndür: %d/%d"
+msgstr "Extinguish dirty chimneys: %d/%d"
+
+msgid "Çöp temizle: %d/%d"
+msgstr "Clean up trash: %d/%d"
+
+msgid "Asfaltı yeşillendir: %d/%d"
+msgstr "Turn asphalt green: %d/%d"
+
+msgid "Parçaları sunaklara koy: %d/%d"
+msgstr "Place shards on altars: %d/%d"
+
+msgid "✅ Onarım tamamlandı!"
+msgstr "✅ Repair complete!"
+
+msgid "Baca söndü!"
+msgstr "Chimney out!"
+
+msgid "Geri dönüştü"
+msgstr "Recycled"
+
+msgid "Parça düştü!"
+msgstr "Shard fell!"
+
+msgid "Hoş geldin, Eko-Lider! Denge Tohumu'nu yeniden birleştir."
+msgstr "Welcome, Eco-Leader! Restore the Seed of Balance."
+
+msgid "CarbonFight"
+msgstr "CarbonFight"
+
+msgid "Ayarlar"
+msgstr "Settings"
+
+msgid "Ayarlar (Esc)"
+msgstr "Settings (Esc)"
+
+msgid "Tohum:"
+msgstr "Seed:"
+
+msgid "Olaylar"
+msgstr "Events"
+
+msgid "TURU BİTİR"
+msgstr "END TURN"
+
+msgid "Dil değiştirildi."
+msgstr "Language changed."
+
+msgid "Denge Tohumu"
+msgstr "Seed of Balance"
+
+msgid "Devam"
+msgstr "Continue"
+
+msgid "%s\n\nHarita etkisi - %s: %s\n\nGörev: %s"
+msgstr "%s\n\nMap effect - %s: %s\n\nQuest: %s"
+
+msgid "Harita %d/%d"
+msgstr "Map %d/%d"
+
+msgid "Final"
+msgstr "Final"
+
+msgid "Başla"
+msgstr "Start"
+
+msgid "%s yenildi!"
+msgstr "%s defeated!"
+
+msgid "Harita onarıldı."
+msgstr "Map repaired."
+
+msgid "%s alındı!"
+msgstr "%s obtained!"
+
+msgid "%s yenildi ve yuttuğu parçayı bıraktı.\n\nKalıcı bonus: %s\n\nÖdül: Karbon %+d, Refah %+d, Sıcaklık %+.1f°C"
+msgstr "%s was defeated and dropped the shard it had swallowed.\n\nPermanent bonus: %s\n\nReward: Carbon %+d, Welfare %+d, Temperature %+.1f°C"
+
+msgid "Sonraki harita"
+msgstr "Next map"
+
+msgid "Karbon: %d / %d"
+msgstr "Carbon: %d / %d"
+
+msgid " x2"
+msgstr " x2"
+
+msgid "Sıcaklık: %.2f°C / %.1f%s"
+msgstr "Temperature: %.2f°C / %.1f%s"
+
+msgid "Refah: %d / %d"
+msgstr "Welfare: %d / %d"
+
+msgid "Onarıldı! %s ile savaş."
+msgstr "Repaired! Fight %s."
+
+msgid " (henüz alınmadı)"
+msgstr " (not obtained yet)"
+
+msgid "Onarım"
+msgstr "Repair"
+
+msgid "Boss"
+msgstr "Boss"
+
+msgid "Tur %d - Harita %d/%d - %s"
+msgstr "Turn %d - Map %d/%d - %s"
+
+msgid "Tur çözülüyor..."
+msgstr "Resolving turn..."
+
+msgid "Kart oynandı - Turu Bitir (Space)"
+msgstr "Card played - End Turn (Space)"
+
+msgid "Onarım: %s"
+msgstr "Repair: %s"
+
+msgid "Parçaları sunaklara koy, sunakları kartlarla koru"
+msgstr "Place shards on altars, guard the altars with cards"
+
+msgid "Bir kartı slota ya da boss'a sürükle"
+msgstr "Drag a card onto a slot or the boss"
+
+msgid "-%d Refah"
+msgstr "-%d Welfare"
+
+msgid "Seviye %d!"
+msgstr "Level %d!"
+
+msgid "YIKILDI"
+msgstr "DESTROYED"
+
+msgid "Yeşil Alan!"
+msgstr "Green Area!"
+
+msgid "Serinledi"
+msgstr "Cooled"
+
+msgid "Gelgit!"
+msgstr "Tide!"
+
+msgid "Sunağa yerleşti"
+msgstr "Placed on altar"
+
+msgid "Doğa Ana uyandı"
+msgstr "Mother Nature awakens"
+
+msgid "KAYBETTİN"
+msgstr "YOU LOST"
+
+msgid "Yeniden Başla"
+msgstr "Restart"
+
+msgid "Yeni oyun başladı."
+msgstr "New game started."
+
+msgid "— Tur %d sonu: Karbon %+d, Refah %+d, Sıcaklık %+.2f°C"
+msgstr "— End of turn %d: Carbon %+d, Welfare %+d, Temperature %+.2f°C"
+
+msgid "🏭 Yüksek karbon boss'u besledi: +%d HP"
+msgstr "🏭 High carbon fed the boss: +%d HP"
+
+msgid "🔓 Slot %d serbest."
+msgstr "🔓 Slot %d is free."
+
+msgid "Sıcaklık %.1f°C'ye ulaştı."
+msgstr "Temperature reached %.1f°C."
+
+msgid "Refah tükendi."
+msgstr "Welfare ran out."
+
+msgid "%d hasar"
+msgstr "%d damage"
+
+msgid "yanma %d tur"
+msgstr "burn %d turns"
+
+msgid "kilit %d tur"
+msgstr "lock %d turns"
+
+msgid "Karbon %+d"
+msgstr "Carbon %+d"
+
+msgid "Refah %+d"
+msgstr "Welfare %+d"
+
+msgid "Zayıf:"
+msgstr "Weak:"
+
+msgid "Dirençli:"
+msgstr "Resists:"
+
+msgid "Zırh kırıldı!"
+msgstr "Armor broken!"
+
+msgid "%s (uyuyor)"
+msgstr "%s (asleep)"
+
+msgid "Öfke %d / %d"
+msgstr "Rage %d / %d"
+
+msgid "HP %d / %d"
+msgstr "HP %d / %d"
+
+msgid "Öfke +%d"
+msgstr "Rage +%d"
+
+msgid "Sıradaki: %s - %s"
+msgstr "Next: %s - %s"
+
+msgid "Vurma! Kül öfkelenir (öfke +%d)"
+msgstr "Don't hit! Ash gets angry (rage +%d)"
+
+msgid "Kurban vuruşu: ~%d hasar (kart yok olur)"
+msgstr "Sacrifice strike: ~%d damage (card is destroyed)"
+
+msgid "Mekanik: %s"
+msgstr "Mechanic: %s"
+
+msgid "Alev Zırhı %d/%d - yalnızca Su kırar"
+msgstr "Flame Armor %d/%d - only Water breaks it"
+
+msgid "Alev zırhı yok - tam hasar!"
+msgstr "No flame armor - full damage!"
+
+msgid "Yüzeye zorlandı: ×%s hasar!"
+msgstr "Forced up: ×%s damage!"
+
+msgid "Dalışta! %d. sütuna kart koy"
+msgstr "Diving! Place a card in column %d"
+
+msgid "Yüzeyde - sonraki tur dalar"
+msgstr "Surfaced - dives next turn"
+
+msgid "Savunmasız %d tur: ×%s hasar!"
+msgstr "Vulnerable for %d turns: ×%s damage!"
+
+msgid "Isı Zırhı %d (sıcak slot) - ×%s hasar"
+msgstr "Heat Armor %d (hot slots) - ×%s damage"
+
+msgid "Sunaktaki parça: %d/3 - vurma, sakinleştir"
+msgstr "Shards on altars: %d/3 - don't hit, calm her"
+
+msgid "DALIŞTA"
+msgstr "DIVING"
+
+msgid "BLOK"
+msgstr "BLOCKED"
+
+msgid "+%d HP"
+msgstr "+%d HP"
+
+msgid "Yüzeye çıktı!"
+msgstr "Surfaced!"
+
+msgid "%s uyandı!"
+msgstr "%s awakens!"
+
+msgid "%s\n%s\nElement: %s"
+msgstr "%s\n%s\nElement: %s"
+
+msgid "Kendi sunağına koy"
+msgstr "Place on its own altar"
+
+msgid "Ortadaki slota koy"
+msgstr "Place on the center slot"
+
+msgid "Dil / Language"
+msgstr "Dil / Language"
+
+msgid "Müzik"
+msgstr "Music"
+
+msgid "Efektler"
+msgstr "Sound effects"
+
+msgid "Tam ekran"
+msgstr "Fullscreen"
+
+msgid "Hızlı animasyon"
+msgstr "Fast animations"
+
+msgid "Ayarlar otomatik kaydedilir. Esc ile aç/kapat."
+msgstr "Settings are saved automatically. Press Esc to open/close."
+
+msgid "Kapat"
+msgstr "Close"
+
+msgid "Açık"
+msgstr "On"
+
+msgid "Kapalı"
+msgstr "Off"
+
+msgid "Çöp: buraya kart konamaz.\nYanına Toprak kartı koyarak geri dönüştür."
+msgstr "Trash: no card can be placed here.\nPlace an Earth card next to it to recycle it."
+
+msgid "%s sunağı: yalnızca %s buraya konur."
+msgstr "%s altar: only the %s can be placed here."
+
+msgid "Denge Tohumu buraya konacak."
+msgstr "The Seed of Balance goes here."
+
+msgid "Kirli"
+msgstr "Dirty"
+
+msgid "Kirli Baca: her tur +%d karbon salar.\nÜstüne temiz bir kart koyarak söndür."
+msgstr "Dirty Chimney: emits +%d carbon every turn.\nPlace a clean card on top of it to put it out."
+
+msgid "%s\nCan %d/%d · Komşu kartlar sunağı korur."
+msgstr "%s\nHP %d/%d · Neighbouring cards protect the altar."
+
+msgid "%s (Seviye %d)"
+msgstr "%s (Level %d)"
+
+msgid "%s · Can %d/%d"
+msgstr "%s · HP %d/%d"
+
+msgid "Duman: AP yarıya iner, Güneş kartları üretmez."
+msgstr "Smoke: AP is halved, Sun cards produce nothing."
+
+msgid "Asfalt: kart her tur 1 can kaybeder. Toprak kartı %d tur dayanırsa Yeşil Alan olur."
+msgstr "Asphalt: the card loses 1 HP every turn. If an Earth card survives here for %d turns, the slot becomes a Green Area."
+
+msgid "Yeşil Alan: buraya konan kart çevresini serinletir."
+msgstr "Green Area: a card placed here cools its surroundings."
+
+msgid "Sıcak slot: Golem'e zırh verir."
+msgstr "Hot slot: gives the Golem armor."
+
+msgid "Doğa Ana dünyayı Denge Tohumu ile dengede tutuyordu. İnsanlar doymak bilmeden tükettikçe tohum çatladı ve üç parçaya bölündü.\n\nParçalar, kirlilikten doğan üç canavarın içine düştü. Tohumu kaybeden Doğa Ana öfkelendi ve Kül'e dönüştü. Dünya ısınmaya başladı.\n\nSen Eko-Lider'sin. Her haritayı onar, canavarı yen, parçayı geri al ve tohumu Doğa Ana'ya geri ver."
+msgstr "Mother Nature kept the world in balance with the Seed of Balance. As people consumed without end, the seed cracked and split into three shards.\n\nThe shards fell inside three monsters born from pollution. Having lost the seed, Mother Nature was enraged and turned into Ash. The world began to heat up.\n\nYou are the Eco-Leader. Repair each map, defeat its monster, take back the shard and return the seed to Mother Nature."
+
+msgid "Denge Tohumu yeniden birleşti. Kül'ün külleri döküldü, yanmış orman filizleniyor.\n\nBu bir oyundu. Ama 2°C eşiği gerçek."
+msgstr "The Seed of Balance is whole again. The ashes of Ash have fallen away and the burnt forest is sprouting.\n\nThis was a game. But the 2°C threshold is real."
+
+msgid "Turda 1 kart oyna: boş slota yerleşir, aynı kartın üstüne birleşir, boss'a bırakırsan kurban vuruşu. Kart oynanınca tur otomatik ilerler.\nİstemediğin normal kartı çöp kutusuna sürükleyerek ıskartaya atabilirsin.\nAynı element komşular +%25 AP. Kırmızı slotlar boss'un hedefi.\nÖnce haritanın onarım görevini bitir; canavar ancak o zaman uyanır."
+msgstr "Play 1 card per turn: an empty slot places it, the same card merges with it, dropping it on the boss is a sacrifice strike. The turn advances automatically once you play a card.\nYou can discard an unwanted normal card by dragging it to the bin.\nSame-element neighbours give +25% AP. Red slots are the boss's targets.\nFinish the map's repair quest first; only then does the monster wake up."
+
+msgid "Su Parçası"
+msgstr "Water Shard"
+
+msgid "Toprak Parçası"
+msgstr "Earth Shard"
+
+msgid "Güneş Parçası"
+msgstr "Sun Shard"
+
+msgid "Güneş"
+msgstr "Sun"
+
+msgid "Toprak"
+msgstr "Earth"
+
+msgid "Su"
+msgstr "Water"
+
+msgid "Fosil"
+msgstr "Fossil"
+
+msgid "Tek slot"
+msgstr "Single slot"
+
+msgid "Sıra"
+msgstr "Row"
+
+msgid "Sütun"
+msgstr "Column"
+
+msgid "Artı"
+msgstr "Plus"
+
+msgid "Birleşmiş Denge Tohumu. Ortadaki slota koy ve Doğa Ana'yı uyandır."
+msgstr "The restored Seed of Balance. Place it on the center slot and awaken Mother Nature."
+
+msgid "Dikey Tarım"
+msgstr "Vertical Farm"
+
+msgid "Az alanda çok gıda üretir."
+msgstr "Grows a lot of food in a small space."
+
+msgid "Güneş Tarlası"
+msgstr "Solar Farm"
+
+msgid "Temiz enerji üretir ama tarım arazisinden yer kaplar."
+msgstr "Produces clean energy but takes up farmland."
+
+msgid "Kömür Santrali"
+msgstr "Coal Plant"
+
+msgid "Cazip ama kötü: güçlü vurur, çok karbon salar."
+msgstr "Tempting but bad: hits hard, emits lots of carbon."
+
+msgid "Mavi Karbon"
+msgstr "Blue Carbon"
+
+msgid "Plaj ve deniz çayırları karbon tutar."
+msgstr "Beaches and seagrass meadows store carbon."
+
+msgid "Denge Tohumu'nun Güneş parçası. Güneş sunağına konur."
+msgstr "The Sun shard of the Seed of Balance. Goes on the Sun altar."
+
+msgid "Denge Tohumu'nun Su parçası. Su sunağına konur."
+msgstr "The Water shard of the Seed of Balance. Goes on the Water altar."
+
+msgid "Denge Tohumu'nun Toprak parçası. Toprak sunağına konur."
+msgstr "The Earth shard of the Seed of Balance. Goes on the Earth altar."
+
+msgid "Toplu Taşıma"
+msgstr "Public Transit"
+
+msgid "Trafiği ve emisyonu azaltır."
+msgstr "Reduces traffic and emissions."
+
+msgid "Yeşil Çatı"
+msgstr "Green Roof"
+
+msgid "Şehri serinletir; sağlam bir savunma kartı."
+msgstr "Cools the city; a sturdy defensive card."
+
+msgid "Isı Adası Golemi"
+msgstr "Heat Island Golem"
+
+msgid "Şehrin asfaltından yükselen dev. Güneş Parçası'nı yuttu; güneş artık ısıtmıyor, yakıyor."
+msgstr "A giant rising from the city's asphalt. It swallowed the Sun Shard; the sun no longer warms, it burns."
+
+msgid "Isı Emme"
+msgstr "Heat Absorption"
+
+msgid "Her sıcak slot ona zırh verir (hasar ×0.5). Yeşil Alan'a kart koyarak çevresini, Toprak kartıyla kendi slotunu serinlet. Zırh 0'a inince 2 tur savunmasız (×2)."
+msgstr "Every hot slot gives it armor (damage ×0.5). Place a card on a Green Area to cool its surroundings, or an Earth card to cool its own slot. When the armor drops to 0 it is vulnerable for 2 turns (×2)."
+
+msgid "Asfalt Darbesi"
+msgstr "Asphalt Slam"
+
+msgid "Sıcak Hava Kubbesi"
+msgstr "Hot Air Dome"
+
+msgid "Beton Yumruk"
+msgstr "Concrete Fist"
+
+msgid "Kül"
+msgstr "Ash"
+
+msgid "Denge Tohumu'nu kaybedince öfkelenen Doğa Ana. Onu yenmenin yolu öldürmek değil, sakinleştirmek."
+msgstr "Mother Nature, enraged after losing the Seed of Balance. The way to beat her is not to kill her, but to calm her."
+
+msgid "Sakinleştir"
+msgstr "Calm Her"
+
+msgid "Ona vurmak öfkesini artırır. Parçaları kendi sunaklarına koy, sunakları komşu kartlarla koru. Üç parça birleşince Denge Tohumu'nu ortadaki slota koy."
+msgstr "Hitting her raises her rage. Place the shards on their altars and protect the altars with neighbouring cards. When all three shards are joined, place the Seed of Balance on the center slot."
+
+msgid "Kül Fırtınası"
+msgstr "Ash Storm"
+
+msgid "Öfke Pençesi"
+msgstr "Rage Claw"
+
+msgid "Ateş Yağmuru"
+msgstr "Fire Rain"
+
+msgid "Plastik Leviathan"
+msgstr "Plastic Leviathan"
+
+msgid "Plastikten doğan deniz canavarı. Toprak Parçası'nı yuttu, kıyı çoraklaştı."
+msgstr "A sea monster born from plastic. It swallowed the Earth Shard and the coast turned barren."
+
+msgid "Dalış"
+msgstr "Dive"
+
+msgid "Dönüşümlü olarak dalar. Dalıştayken hasar almaz; baloncuklu sütuna kart koyarsan yüzeye zorlanır ve ×2 hasar alır."
+msgstr "It dives every other turn. While diving it takes no damage; placing a card in the bubbling column forces it to the surface, where it takes ×2 damage."
+
+msgid "Atık Dalgası"
+msgstr "Waste Wave"
+
+msgid "Mikroplastik Isırık"
+msgstr "Microplastic Bite"
+
+msgid "Termik Ejderha"
+msgstr "Thermal Dragon"
+
+msgid "Kömür ocaklarında uyuyan ateş ejderhası. Su Parçası'nı yuttu, vadinin dereleri kurudu."
+msgstr "A fire dragon sleeping in the coal mines. It swallowed the Water Shard and the valley's streams dried up."
+
+msgid "Alev Zırhı"
+msgstr "Flame Armor"
+
+msgid "3 katmanlı alev zırhı var. Yalnızca Su kartları bir katman kırar; zırh varken diğer kartların hasarı ×0.25."
+msgstr "It has 3 layers of flame armor. Only Water cards break a layer; while the armor holds, other cards deal ×0.25 damage."
+
+msgid "Alev Nefesi"
+msgstr "Flame Breath"
+
+msgid "Kor Pençe"
+msgstr "Ember Claw"
+
+msgid "Dumanlı Vadi"
+msgstr "Smoky Valley"
+
+msgid "Kömür ocaklarının üstünde gri bir is asılı. Termik Ejderha burada uyuyor ve Su Parçası'nı yuttu; vadinin dereleri bu yüzden kurudu."
+msgstr "A grey haze hangs over the coal mines. The Thermal Dragon sleeps here and swallowed the Water Shard; that is why the valley's streams dried up."
+
+msgid "Duman"
+msgstr "Smoke"
+
+msgid "Her tur 2 rastgele slotu is bürür. Oradaki kartların AP'si yarıya iner, Güneş kartları üretim yapamaz."
+msgstr "Every turn smoke covers 2 random slots. Cards there have their AP halved, and Sun cards produce nothing."
+
+msgid "Haritadaki 3 Kirli Baca'nın (önceden yerleşik Kömür Santralleri) yerine temiz kart koy. Son baca sönünce ejderha uyanır."
+msgstr "Place a clean card on each of the map's 3 Dirty Chimneys (pre-placed Coal Plants). When the last chimney goes out, the dragon wakes up."
+
+msgid "Tüm kartlar +1 zırh kazanır."
+msgstr "All cards gain +1 armor."
+
+msgid "Gri Şehir"
+msgstr "Grey City"
+
+msgid "Şehrin asfaltı güneşte kavruluyor. Isı Adası Golemi Güneş Parçası'nı yuttu; güneş artık ısıtmıyor, yakıyor."
+msgstr "The city's asphalt is scorching in the sun. The Heat Island Golem swallowed the Sun Shard; the sun no longer warms, it burns."
+
+msgid "Kavurucu Asfalt"
+msgstr "Scorching Asphalt"
+
+msgid "5 slot asfalt. Asfalttaki kartlar her tur 1 can kaybeder; asfalt kaldıkça Sıcaklık 2 kat hızlı artar."
+msgstr "5 slots are asphalt. Cards on asphalt lose 1 HP every turn; while asphalt remains, Temperature rises twice as fast."
+
+msgid "Toprak kartı (Yeşil Çatı, Dikey Tarım) bir asfaltta 2 tur hayatta kalırsa o slot kalıcı Yeşil Alan olur. 5 asfaltın hepsi yeşillenince golem ortaya çıkar."
+msgstr "If an Earth card (Green Roof, Vertical Farm) survives 2 turns on asphalt, that slot becomes a permanent Green Area. When all 5 asphalt slots are green, the golem appears."
+
+msgid "Güneş kartları +2 AP kazanır."
+msgstr "Sun cards gain +2 AP."
+
+msgid "Kül Ormanı"
+msgstr "Ash Forest"
+
+msgid "Üç parçayla Doğa Ana'nın ormanına geldin. Orman yanıyor ve karşında öfkeli Kül duruyor. Onu yenmenin yolu öldürmek değil, sakinleştirmek."
+msgstr "With the three shards you have reached Mother Nature's forest. The forest is burning and the furious Ash stands before you. The way to beat her is not to kill her, but to calm her."
+
+msgid "Hepsi Bir Arada"
+msgstr "All Together"
+
+msgid "Önceki etkiler hafifçe birlikte: her tur 1 is slotu, 3 turda bir çöp ve 2 asfalt slot."
+msgstr "The earlier effects, all at once but milder: 1 smoke slot every turn, trash every 3 turns and 2 asphalt slots."
+
+msgid "Su, Toprak ve Güneş parçalarını kendi sunaklarına koy. Kül sunakları hedef alır; komşu kartlar sunağı korur, düşen parça ele döner. Üçü yerleşince Denge Tohumu'nu ortadaki slota koy."
+msgstr "Place the Water, Earth and Sun shards on their own altars. Ash targets the altars; neighbouring cards protect them, and a fallen shard returns to your hand. Once all three are placed, put the Seed of Balance on the center slot."
+
+msgid "Solgun Körfez"
+msgstr "Pale Bay"
+
+msgid "Körfezin suyu plastikle bulanık. Plastik Leviathan Toprak Parçası'nı yuttu; kıyıdaki toprak çoraklaştı."
+msgstr "The bay's water is cloudy with plastic. The Plastic Leviathan swallowed the Earth Shard; the coastal soil turned barren."
+
+msgid "Gelgit"
+msgstr "Tide"
+
+msgid "2 turda bir sırayla bir satır sular altında kalır: boş slotlara Çöp düşer, dolu slottaki kart 2 hasar alır. Çöplü slota kart konamaz."
+msgstr "Every 2 turns one row in sequence goes underwater: trash falls on empty slots and a card on a filled slot takes 2 damage. No card can be placed on a slot with trash."
+
+msgid "6 çöp temizle. Toprak kartını çöplü slotun yanına koymak komşu çöpleri geri dönüştürür. Körfez temizlenince Leviathan yüzeye çıkar."
+msgstr "Clean up 6 trash. Placing an Earth card next to a trash slot recycles the neighbouring trash. When the bay is clean, the Leviathan surfaces."
+
+msgid "Refah her tur −4 yerine −2 düşer."
+msgstr "Welfare drops by −2 instead of −4 each turn."
+
+msgid "Denge Tohumu'nu geri kazan."
+msgstr "Restore the Seed of Balance."
+
+msgid "EMEĞİ GEÇENLER"
+msgstr "CREDITS"
+
+msgid "Oyundan çık"
+msgstr "Quit the game"
+
+msgid "ANA MENÜYE DÖN"
+msgstr "MAIN MENU"
+
+msgid "GERİ"
+msgstr "BACK"
+
+msgid "LİSANSLAR"
+msgstr "LICENSES"
+
+msgid "Godot Üçüncü Taraf Bileşenleri"
+msgstr "Godot Third-Party Components"
+
+msgid "✨ %s sunağa geri kondu (öfke azalmadı)."
+msgstr "✨ %s returned to its altar (rage did not drop)."
+
+msgid "Atla"
+msgstr "Skip"
+
+msgid "Eğitim %d/%d"
+msgstr "Tutorial %d/%d"
+
+msgid "Bitir"
+msgstr "Finish"
+
+msgid "Hoş geldin, Eko-Lider! Kısa bir turla oyunu öğrenelim. İstediğin an \"Atla\" diyebilirsin."
+msgstr "Welcome, Eco-Leader! Let's learn the game with a short tour. You can press \"Skip\" at any time."
+
+msgid "Bunlar dünyanın durumu. Karbon yükseldikçe Sıcaklık artar. Sıcaklık 2.0°C'ye ulaşırsa ya da Refah 0'a düşerse kaybedersin."
+msgstr "This is the state of the world. As Carbon rises, Temperature goes up. You lose if Temperature reaches 2.0°C or Welfare drops to 0."
+
+msgid "Her haritanın bir etkisi ve bir onarım görevi var. Dumanlı Vadi'de görevin Kirli Bacaları söndürmek."
+msgstr "Every map has an effect and a repair quest. In Smoky Valley your quest is to put out the Dirty Chimneys."
+
+msgid "Bu haritanın canavarı. Şimdilik uyuyor; onarım görevini bitirince uyanır ve savaş başlar."
+msgstr "This is the map's monster. It's asleep for now; when you finish the repair quest it wakes up and the battle begins."
+
+msgid "Bunlar kartların. Her kartın bir elementi, saldırı gücü, canı ve zırhı var. Altta her tur karbona ve refaha etkisi yazıyor."
+msgstr "These are your cards. Each card has an element, attack power, HP and armor. At the bottom you see its effect on carbon and welfare every turn."
+
+msgid "Bir kartı tutup tahtadaki boş bir karoya sürükle. Her tur yalnızca bir kart oynayabilirsin."
+msgstr "Grab a card and drag it onto an empty tile on the board. You can play only one card per turn."
+
+msgid "Kartın yerleşti! Şimdi Turu Bitir'e bas (ya da Space). Tur sonunda kartların karbon ve refah üretir."
+msgstr "Your card is placed! Now press End Turn (or Space). At the end of the turn your cards produce carbon and welfare."
+
+msgid "Duman tüten binalar Kirli Bacalar: her tur karbon salarlar. Söndürmek için bir kartı doğrudan bacanın üstüne sürükle."
+msgstr "The smoking buildings are Dirty Chimneys: they emit carbon every turn. To put one out, drag a card right on top of it."
+
+msgid "Boss uyanınca kartların her tur ona vurur. Kırmızı karolar sıradaki saldırının hedefi. Aynı elementten komşu kartlar daha güçlü vurur, aynı kartı üstüne bırakırsan seviye atlar. Kartı boss'a bırakırsan kurban vuruşu yaparsın."
+msgstr "Once the boss wakes up, your cards hit it every turn. Red tiles are the target of its next attack. Neighbouring cards of the same element hit harder, and dropping the same card on top levels it up. Dropping a card on the boss makes a sacrifice strike."
+
+msgid "Dil, ses ve diğer ayarlar burada (Esc). İyi şanslar!"
+msgstr "Language, sound and other settings are here (Esc). Good luck!"
+
+msgid "Denge Grimuarı"
+msgstr "Grimoire of Balance"
+
+msgid "Karakterler ve Haritalar"
+msgstr "Characters and Maps"
+
+msgid "Açmak için tıkla"
+msgstr "Click to open"
+
+msgid "Önsöz"
+msgstr "Preface"
+
+msgid "Açılan bölümler: %d/%d"
+msgstr "Unlocked chapters: %d/%d"
+
+msgid "Doğa Ana"
+msgstr "Mother Nature"
+
+msgid "İçindekiler"
+msgstr "Contents"
+
+msgid "Zayıf: %s  /  Dirençli: %s"
+msgstr "Weak: %s  /  Resists: %s"
+
+msgid "Saldırılar"
+msgstr "Attacks"
+
+msgid "Harita etkisi: %s"
+msgstr "Map effect: %s"
+
+msgid "Onarım görevi"
+msgstr "Repair quest"
+
+msgid "Ödül: %s"
+msgstr "Reward: %s"
+
+msgid "Mühürlü Sayfa"
+msgstr "Sealed Page"
+
+msgid "Bu sayfa, Kül sakinleştirildiğinde açılır."
+msgstr "This page opens once Ash is calmed."
+
+msgid "Bu sayfanın mührü, bu diyarın canavarı yenildiğinde çözülür."
+msgstr "This page's seal breaks when the monster of this land is defeated."
+
+msgid "Bu grimuar, kırılan dengenin hikayesini saklar. Kirlilikten doğan canavarları ve onların zehirlediği diyarları anlatır. Her canavarı yendiğinde onun ve diyarının sayfasındaki mühür çözülür."
+msgstr "This grimoire keeps the story of the broken balance. It tells of the monsters born from pollution and the lands they poisoned. Each time you defeat a monster, the seal on its page and its land's page breaks."
+
+msgid "Kömür ocaklarının derinliklerinde yüzyıllarca uyuyan bu ejderha, yakılan her kömürle biraz daha büyüdü. Pulları kurum, nefesi kızgın kül. Su Parçası'nı yuttuğunda vadinin bütün dereleri bir gecede buharlaştı."
+msgstr "This dragon slept for centuries deep in the coal mines and grew a little with every lump of coal burned. Its scales are soot, its breath is red-hot ash. When it swallowed the Water Shard, every stream in the valley evaporated overnight."
+
+msgid "Denize atılan her şişe, her poşet onun bedenine eklendi. Leviathan dalgaların altında sessizce dolaşır, kıyıya yalnızca yemek için çıkar. Toprak Parçası onun midesinde; sahil bu yüzden çoraklaştı."
+msgstr "Every bottle and bag thrown into the sea became part of its body. The Leviathan roams silently beneath the waves and comes ashore only to feed. The Earth Shard is in its stomach; that is why the coast turned barren."
+
+msgid "Şehrin asfaltı ve betonu güneşin ısısını hapsedince bu dev uyandı. Her sıcak sokak ona güç verir, gölge ve yeşillik onu zayıflatır. Güneş Parçası göğsünde bir kor gibi parlıyor."
+msgstr "This giant woke when the city's asphalt and concrete trapped the sun's heat. Every hot street gives it strength; shade and greenery weaken it. The Sun Shard glows in its chest like an ember."
+
+msgid "Bir zamanlar ormanların koruyucusu olan Doğa Ana, Denge Tohumu kırılınca öfkeyle yandı. Kül bir düşman değil, yaralı bir annedir. Ona vurmak yarasını derinleştirir; parçaları geri getirmek onu iyileştirir."
+msgstr "Mother Nature, once the guardian of the forests, burned with rage when the Seed of Balance broke. Ash is not an enemy but a wounded mother. Striking her deepens the wound; bringing back the shards heals her."
+
+msgid "Gezgin notu: Vadide gökyüzü hep gri. Bacaları söndürdükçe güneş yeniden görünür. Su kartları ejderhanın alev zırhını kırar."
+msgstr "Traveller's note: The sky over the valley is always grey. As you put out the chimneys, the sun shows again. Water cards break the dragon's flame armor."
+
+msgid "Gezgin notu: Gelgit sırayla satırları yutar. Toprak kartlarını çöplerin yanına koy; Leviathan dalınca baloncuklu sütuna kart bırak."
+msgstr "Traveller's note: The tide swallows the rows one by one. Place Earth cards next to the trash; when the Leviathan dives, drop a card in the bubbling column."
+
+msgid "Gezgin notu: Asfalt sıcaklığı ikiye katlar. Toprak kartlarını asfaltta iki tur yaşatırsan şehir yeşillenir ve golemin zırhı erir."
+msgstr "Traveller's note: Asphalt doubles the heat. Keep Earth cards alive on asphalt for two turns and the city turns green while the golem's armor melts."
+
+msgid "Gezgin notu: Burada kazanmak için savaşma. Parçaları sunaklarına koy, sunakları kartlarla koru ve tohumu ortaya yerleştir."
+msgstr "Traveller's note: Don't fight to win here. Place the shards on their altars, guard the altars with cards and put the seed in the middle."
+
+msgid "Denge Tohumu yeniden birleştiğinde Kül'ün külleri döküldü ve Doğa Ana uyandı. Saçlarında yeniden çiçekler açtı, orman filizlendi. Ama denge hâlâ kırılgan: onu korumak artık senin elinde."
+msgstr "When the Seed of Balance became whole again, the ashes of Ash fell away and Mother Nature awoke. Flowers bloomed in her hair once more and the forest sprouted. But the balance is still fragile: protecting it is now in your hands."
+
+msgid "Su, Toprak ve Güneş'in birliği. Bu oyun bitti; ama gerçek dünyada da 2°C eşiği var. Her seçim bir kart gibidir: ya dengeyi korur ya da canavarları besler."
+msgstr "The union of Water, Earth and Sun. This game is over, but the 2°C threshold exists in the real world too. Every choice is like a card: it either protects the balance or feeds the monsters."
+
+msgid "Ana menüye dönülsün mü?"
+msgstr "Return to the main menu?"
+
+msgid "Emin misin? Oyun yarıda kalacak ve ilerlemen kaybolacak."
+msgstr "Are you sure? The game will be left unfinished and your progress will be lost."
+
+msgid "Vazgeç"
+msgstr "Cancel"
+
+msgid "Evet, dön"
+msgstr "Yes, return"
+
+msgid "Başlamak için tıkla"
+msgstr "Click to start"
+
+msgid "Yenilen canavar: %d   Kalan Refah: %d   Son Sıcaklık: %.2f°C"
+msgstr "Monsters defeated: %d   Welfare left: %d   Final temperature: %.2f°C"
+
+msgid "Yeni rekor!"
+msgstr "New record!"
+
+msgid "En iyi skor: %d"
+msgstr "Best score: %d"
+
+msgid "Skor: %d"
+msgstr "Score: %d"
+
+msgid "SKOR"
+msgstr "SCORE"
+
+msgid "En iyi: %d"
+msgstr "Best: %d"
+
+msgid "Refah"
+msgstr "Welfare"
+
+msgid "Sıcaklık"
+msgstr "Temperature"
+
+msgid "Canavar yenildi"
+msgstr "Monster defeated"
+
+msgid "Zafer"
+msgstr "Victory"
+
+msgid "YENİ OYUN"
+msgstr "NEW GAME"
+
+msgid "AYARLAR"
+msgstr "SETTINGS"
+
+msgid "ÇIKIŞ"
+msgstr "QUIT"
+
+msgid "KARAKTERLER VE HARİTALAR"
+msgstr "CHARACTERS AND MAPS"
+
+msgid "KARTI ÇÖPE AT"
+msgstr "DISCARD CARD"
+
+msgid "İstemediğin normal kartı buraya sürükle. Kart ıskartaya gider ve tur otomatik ilerler."
+msgstr "Drag an unwanted normal card here. It goes to the discard pile and the turn advances automatically."
+
+msgid "🗑 %s ıskartaya atıldı."
+msgstr "🗑 %s was discarded."
+
+msgid "Onarım: %s · Kart oyna veya çöpe at"
+msgstr "Repair: %s · Play or discard a card"
+
+msgid "Kartı slota, boss'a veya çöp kutusuna sürükle"
+msgstr "Drag a card to a slot, the boss, or the discard bin"
+
+msgid "Kartın yerleşti ve tur otomatik ilerliyor. Bu çöp kutusuna istemediğin normal kartı bırakırsan da tur ilerler ve yerine yeni kart gelir."
+msgstr "Your card is placed and the turn advances automatically. You can also drop an unwanted normal card into this bin to advance the turn and draw a replacement."
+
+msgid "Tebrikler!"
+msgstr "Congratulations!"
+
+msgid "Beni yenmedin. Beni hatırladın."
+msgstr "You didn't defeat me. You remembered me."
+
+msgid "Devam etmek için tıkla"
+msgstr "Click to continue"
