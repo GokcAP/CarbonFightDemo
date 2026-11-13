@@ -7,6 +7,8 @@
 > canavarların içine düştü ve Doğa Ana öfkeyle Kül'e dönüştü. Sen Eko-Lider'sin: haritaları onar,
 > canavarları yen, parçaları geri al.
 
+https://github.com/user-attachments/assets/e001308e-46e0-464e-be14-a6fbb56dfeb3
+
 
 ## Oynanış
 
