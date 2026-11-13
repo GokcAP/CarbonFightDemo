@@ -1,4 +1,5 @@
 # CarbonFight — Denge Tohumu
+<img width="1278" height="715" alt="image" src="https://github.com/user-attachments/assets/103bf6c3-7b51-4475-9ce4-e190a181824d" />
 
 İklim temalı, izometrik pixel-art kart ve strateji oyunu. GameUp! Hackathon için Godot 4 ile yapıldı.
 
